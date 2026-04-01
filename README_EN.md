@@ -65,9 +65,7 @@ and get an **AI Skill that actually works like them**
 
 ### Recommended Chat Export Tools
 
-> The auto-decryption feature is still being improved and may have some bugs. If auto-decryption fails, you can use the following open-source tools to manually export chat history, then paste or import it into this project.
-
-These are independent open-source projects — this project does not include their code, but our parsers are compatible with their export formats:
+These are independent open-source projects — this project does not include their code, but our parsers are compatible with their export formats. Export chat history with these tools, then paste or import into this project:
 
 | Tool | Platform | Description |
 |------|----------|-------------|
