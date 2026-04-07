@@ -25,7 +25,7 @@ Forneça materiais fonte (mensagens do Slack, docs do Confluence, emails, screen
 mais a sua descrição subjetiva da pessoa<br>
 e receba um **AI Skill que realmente trabalha como ela**
 
-[Fontes de dados](#fontes-de-dados-suportadas) · [Instalação](#instalação) · [Uso](#uso) · [Demo](#demo) · [Instalação detalhada](INSTALL.md) · [**中文**](README.md) · [**English**](README_EN.md)
+[Fontes de dados](#fontes-de-dados-suportadas) · [Instalação](#instalação) · [Uso](#uso) · [Demo](#demo) · [Instalação detalhada](INSTALL.md) · [**中文**](README_ZH.md) · [**English**](README.md)
 
 </div>
 

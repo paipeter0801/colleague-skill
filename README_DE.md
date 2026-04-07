@@ -25,7 +25,7 @@ Liefere Quellmaterialien (Slack-Nachrichten, Confluence-Docs, E-Mails, Screensho
 plus deine subjektive Beschreibung der Person<br>
 und erhalte einen **AI Skill, der tatsächlich wie sie arbeitet**
 
-[Datenquellen](#unterstützte-datenquellen) · [Installation](#installation) · [Nutzung](#nutzung) · [Demo](#demo) · [Detaillierte Installation](INSTALL.md) · [**中文**](README.md) · [**English**](README_EN.md)
+[Datenquellen](#unterstützte-datenquellen) · [Installation](#installation) · [Nutzung](#nutzung) · [Demo](#demo) · [Detaillierte Installation](INSTALL.md) · [**中文**](README_ZH.md) · [**English**](README.md)
 
 </div>
 
